@@ -1,7 +1,8 @@
-***PnxTest演示项目***
-1、包含pnxtest核心功能的测试和用法示范(controller/pnxtest)，以及一个真实场景的测试(controller/realScenario)
-2、有部分失败的测试用例是为了项目展示而特别设置的
+# PnxTest Demo Project
+- 包含pnxtest核心功能的测试和用法示范(controller/pnxtest)，以及一个真实场景的测试(controller/realScenario)
+- 有部分失败的测试用例是为了项目展示而特别设置的
 
+```text
 项目结构：
 integrationTest                               //项目名
 ├── src                                       //源码文件夹  
@@ -16,6 +17,8 @@ integrationTest                               //项目名
 ├── test-config                               //测试环境或数据
 ├── test-outputting                           //测试执行结果
 ├── pom.xml                                   //项目公共依赖
+
+```
 
 
 
