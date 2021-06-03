@@ -1,0 +1,16 @@
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/controller/pnxtest/core/EnvironmentPropertiesTest.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/controller/pnxtest/http/AuthTest.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/controller/pnxtest/core/AssertionTest.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/controller/pnxtest/db/DatabaseTest.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/controller/pnxtest/http/PostTest.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/controller/pnxtest/core/DataDrivenTest.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/controller/pnxtest/db/Account.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/controller/realScenario/ProductServiceTest.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/controller/pnxtest/http/GetTest.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/config/HttpGatewayConfig.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/MyPnxTestApplication.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/entity/Product.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/repository/ProductRepository.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/controller/pnxtest/core/BasicTestCaseAttributesTest.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/controller/pnxtest/http/DynamicalRouterTest.java
+/Users/nicolas.chen/integrationTest/src/main/java/com/pnxtest/integrationTest/config/ExecutionConfig.java

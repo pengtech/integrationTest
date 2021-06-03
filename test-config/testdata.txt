@@ -1,0 +1,9 @@
+#userinfo
+name,mobile,city
+Ming,18222223333,shanghai
+Feng,19089898911,beijing
+Feng,19089898922,wuhan
+Feng,19089898933,changsha
+Feng,19089898944,guangzhou
+Feng,19089898955,shanghai
+Feng,19089898966,shenzhen
