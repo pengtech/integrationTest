@@ -7,7 +7,7 @@
     <parent>
         <artifactId>pnx-test-starter-parent</artifactId>
         <groupId>com.pnxtest</groupId>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </parent>
 
     <artifactId>integrationTest</artifactId>
